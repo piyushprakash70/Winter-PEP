@@ -13,7 +13,7 @@ public:
             }
         }
         return false;
-    }
+    } 
 
     int maxDistance(vector<int>& position, int m) {
         sort(position.begin(), position.end());
