@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
+ 
 class Calculator {
 public:
     int calculate(int a, int b, string op) {
