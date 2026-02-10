@@ -1,6 +1,6 @@
 class Solution {
   public:
-    int minSwap(vector<int>& arr, int k) {
+    int minSwap(vector<int>& arr, int k) { 
         int n = arr.size();
         int x = 0;
         for (int i = 0; i < n; i++) {
